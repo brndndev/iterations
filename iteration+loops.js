@@ -1,5 +1,5 @@
-// let animals = ["cow","duck","chicken","pig"]
-// let noises = ["moo","quack","cluck","oink"]
+let animals = ["cow","duck","chicken","pig"]
+let noises = ["moo","quack","cluck","oink"]
 
 // Iterate through BOTH arrays and display the following output
 //
